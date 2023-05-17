@@ -1,0 +1,3 @@
+Conjuntos(sets):
+usamos as chaves ({}) para criar um conjunto;
+Um tipo de contêiner usada para a verificação eficiente da existência de objetos e eliminação de duplicados quando queremos que uma lista contenha apenas 1 instância de cada.

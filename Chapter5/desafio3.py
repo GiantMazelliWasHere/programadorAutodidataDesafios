@@ -1,0 +1,1 @@
+atributos = {'eyes':'Brown', 'hair':'Dark Red', 'height':'195cm', 'favourite color':'Red', 'favourite actor':'Keanu Revees'}
